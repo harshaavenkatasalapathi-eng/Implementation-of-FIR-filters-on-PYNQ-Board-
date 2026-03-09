@@ -1,4 +1,4 @@
-# FPGA FIR Filter Implementation using PYNQ-Z2
+# FPGA FIR Filters Implementation using PYNQ-Z2
 
 ## Overview
 
